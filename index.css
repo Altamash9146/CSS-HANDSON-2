@@ -1,0 +1,60 @@
+body{
+    background-image: url(./Dark\ Brown.jpg);
+   
+}
+
+.line1{
+    border:3px gold; border-style:solid;
+    padding:10px; width: 250px;;
+    border-radius: 2px; 
+    margin-top: 30px;
+    font-size:x-large; font-style: italic; background-color: black;
+    padding: 20px; color:lightpink;
+    border-radius: 20px;
+}
+
+.line2{
+    margin-top: -120px; margin-left: 200px; width: fit-content;
+}
+
+.line3{
+    margin-left: 800px; margin-top: -70px; width: fit-content;
+}
+
+.personaldetails{
+    border-style: dashed; border-width: 6px; width: fit-content; margin-left: 50%;
+    text-align: center; margin-top: 10px; border-color: gold; color: azure;
+    background-color:maroon;
+}
+
+.circle{
+ border-radius: 50%; border-color: white; border-width: 5px; border-style: solid;
+ height: 400px; width: 400px;  margin-top: -400px; background-color: blue;
+ display: flex; flex-direction: column; justify-content:space-evenly; align-items: center;
+}
+.content{
+    text-decoration-line: underline; font-style: italic; color:red;
+}
+
+.menu{
+    text-align: center; border: 3px gold; border-style: solid; 
+    width: fit-content; padding: 20px 150px; margin-left: 40%;
+    border-radius: 20px; background-color:black; color: azure;
+    font-style: italic; color: darkmagenta; font-size: x-large;
+}
+
+.list1{
+    border-radius:25px; border-color: gold; border-width: 5px; border-style: solid;
+    width:250px; height: 250px; margin: 50px; background-color:black;
+    color: azure;
+}
+
+.List-Group{
+    display: flex; flex-flow: row wrap; align-items: center; justify-content: space-evenly;
+   
+}
+
+.ListHead{
+   font-style: italic; color: cyan;
+}
+
