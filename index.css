@@ -1,5 +1,6 @@
 body{
     background-image: url(./Dark\ Brown.jpg);
+    border: 2px groove red; margin: 0px;
    
 }
 
@@ -23,7 +24,7 @@ body{
 
 .personaldetails{
     border-style: dashed; border-width: 6px; width: fit-content; margin-left: 50%;
-    text-align: center; margin-top: 10px; border-color: gold; color: azure;
+    text-align: center; margin-top: 70px; border-color: gold; color: azure;
     background-color:maroon;
 }
 
@@ -38,7 +39,7 @@ body{
 
 .menu{
     text-align: center; border: 3px gold; border-style: solid; 
-    width: fit-content; padding: 20px 150px; margin-left: 40%;
+    width: fit-content; padding: 20px 150px; margin-left: 35%; margin-top: 50px;
     border-radius: 20px; background-color:black; color: azure;
     font-style: italic; color: darkmagenta; font-size: x-large;
 }
