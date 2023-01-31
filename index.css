@@ -56,6 +56,11 @@ body{
 }
 
 .ListHead{
-   font-style: italic; color: cyan;
+   font-style: italic; color: cyan; 
 }
+
+.E1{
+    width:95%;
+}
+
 
